@@ -5,7 +5,7 @@ A tiny Bfk interpreter written in C.
 ## 📊 Size
 
 - **Source code:** 600 bytes
-- **Binary:** ~15 KB (Windows, with `-Os`)
+- **Binary:** ~15 KB (Windows, with `-Os` And `-s`)
 - **Dependencies:** Only `<stdio.h>`
 
 ## ✨ Features
@@ -17,8 +17,8 @@ A tiny Bfk interpreter written in C.
 
 ## 🛠️ Build
 
-```bash
-gcc -Os bfk.c -o bfk.exe
+```PowerShell/Cmd
+gcc -Os -s bfk.c -o bfk.exe
 ```
 
 ## 🚀 Usage
