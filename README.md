@@ -5,7 +5,7 @@ A tiny Bfk interpreter written in C.
 ## 📊 Size
 
 - **Source code:** 600 bytes
-- **Binary:** ~15 KB (Windows, with `-Os` And `-s`)
+- **Binary:** ~15360 bytes(If Compiled with `-Os` And `-s`) (Windows, with `-Os` And `-s`)
 - **Dependencies:** Only `<stdio.h>`
 
 ## ✨ Features
