@@ -1,6 +1,6 @@
 # Bfk.In.C 🐣
 
-A tiny Brainfuck interpreter written in C.
+A tiny Bfk interpreter written in C.
 
 ## 📊 Size
 
@@ -10,7 +10,7 @@ A tiny Brainfuck interpreter written in C.
 
 ## ✨ Features
 
-- ✅ All 8 Brainfuck commands (`> < + - . , [ ]`)
+- ✅ All 8 Bfk commands (`> < + - . , [ ]`)
 - ✅ File input support
 - ✅ Only uses `stdio.h`
 - ✅ Extremely small source
